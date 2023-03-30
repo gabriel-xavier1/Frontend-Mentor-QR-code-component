@@ -14,10 +14,10 @@ QR Code feito a partir do desafio do  <a href='https://www.frontendmentor.io/cha
 - <a href="#autora">Pessoa Autora </a>
 
 
-## 💿 Demostração 
+## 💿Demostração 
 [Clique aqui para acessar](https://gabriel-xavier1.github.io/Frontend-Mentor-QR-code-component/)
 
-## ⚙️ Tecnologias Ultilizadas 
+## ⚙️Tecnologias Ultilizadas 
 
 - Html
 - Css
