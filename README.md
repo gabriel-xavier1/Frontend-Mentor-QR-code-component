@@ -5,15 +5,6 @@
 
 QR Code feito a partir do desafio do  <a href='https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H'>FrontEnd Mentor<a> 
 
-## Índice
-
-- <a href="#-demonstracao">Demonstração</a>
-- <a href="#-tecnologia">Tecnologia ultilizadas</a>
-- <a href="#-aprendendo">O que estou aprendendo </a>
-- <a href="#-passos">Próximos passos</a>
-- <a href="#-autora">Pessoa Autora </a>
-
-
 ## 💿Demostração 
 [Clique aqui para acessar](https://gabriel-xavier1.github.io/Frontend-Mentor-QR-code-component/)
 
